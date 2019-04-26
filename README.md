@@ -2,17 +2,16 @@
 
 ## Abstract
 
-This section specifies the slashing module of the Cosmos SDK, which implements functionality
-first outlined in the [Cosmos Whitepaper](https://cosmos.network/about/whitepaper) in June 2016.
+This section specifies the slashing module of the Commercio.network based on Cosmos SDK
 
-The slashing module enables Cosmos SDK-based blockchains to disincentivize any attributable action
+The slashing module enables Commercio.network blockchain to disincentivize any attributable action
 by a protocol-recognized actor with value at stake by penalizing them ("slashing").
 
 Penalties may include, but are not limited to:
 - Burning some amount of their stake
 - Removing their ability to vote on future blocks for a period of time.
 
-This module will be used by the Cosmos Hub, the first hub in the Cosmos ecosystem.
+This module will be used by the Commercio.network, a sovreign blockchain build on  the Cosmos ecosystem.
 
 ## Contents
 
