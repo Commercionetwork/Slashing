@@ -13,6 +13,12 @@ Penalties may include, but are not limited to:
 
 This module will be used by the Commercio.network, a sovreign blockchain build on  the Cosmos ecosystem.
 
+| Value | Description  | Status |
+| --- | --- | --- |
+| 1% | Slashing after 10.000 Blocks of inactivity  | `Jailing` |
+| 5% | Slashing after Double signing  | `Tombstone` |
+
+
 ## Contents
 
 1. **[Concepts](01_concepts.md)**
